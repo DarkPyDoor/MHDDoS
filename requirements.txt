@@ -8,3 +8,4 @@ icmplib>=3.0.3
 pyasn1==0.4.8
 git+https://github.com/MHProDev/PyRoxy.git
 yarl~=1.8.1
+pyTelegramBotAPI
